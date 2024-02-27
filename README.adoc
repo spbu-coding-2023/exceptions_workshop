@@ -1,0 +1,21 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :memo:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+= Исключения
+
+== Запуск
+
+[source, shell]
+----
+./gradlew run
+----
+
+== Материалы
+
+* https://docs.google.com/presentation/d/1_F9CVHdbXoRagLUpBGjpwS9DDbzB2K-Cfv4Pz5qKza4/edit?usp=drive_link[Презентация от Jet Brains] (Там в комментариях докладчика есть ещё ссылки)
+* https://kotlinlang.org/docs/exceptions.html[Документация Kotlin]
